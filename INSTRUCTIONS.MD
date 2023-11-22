@@ -52,6 +52,10 @@ Before we build our tool, we need to set up our environment for success. Luckily
 
     - The script will install all of the necessary dependencies.
 
+    - It will then launch Jupyter and you should see the following in your local browser.
+
+    ![image](jupyter.png)
+
 - **Set your OpenAI API key**
 
     - You will need an openai key to successfully run this application which you can obtain here https://platform.openai.com/api-keys. (you will also need to purchase OpenAI tokens)
